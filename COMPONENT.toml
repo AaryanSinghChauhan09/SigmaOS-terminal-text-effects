@@ -3,12 +3,12 @@ name = "SigmaOS-terminal-text-effects"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "terminal-text-effects component"
+description = "Terminal text effects engine"
 upstream = []
 
 [contract]
 provides = ["component"]
-depends_on = []
+depends_on = ["SigmaOS-system"]
 
 [maturity]
 status = "Scaffold"
