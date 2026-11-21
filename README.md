@@ -1,9 +1,9 @@
 # SigmaOS-terminal-text-effects
 
-Terminal text effects engine
+Terminal Text Effects for SigmaOS inspired by SigmaOS Linux
 
-- **Category:** Developer Tools
-- **Engine:** tte
+- **Category:** Utilities
+- **Engine:** text_effects
 - **Language:** Rust
 
 ## Build & Test
